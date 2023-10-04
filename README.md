@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
-<h3 align="center">A passionate mobile developer from Turkiye</h3>
+<h3 align="center">A passionate web and mobile developer from Turkiye</h3>
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **React, React Native, Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
